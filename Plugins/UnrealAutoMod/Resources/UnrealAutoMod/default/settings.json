@@ -59,22 +59,6 @@
     {
       "compression_type": "Zlib",
       "file_includes": {
-        "asset_paths": ["Content/Mods/ModMeta/HUDCoreModMeta"],
-        "tree_paths": ["Content/Mods/_NadzMods/HUDCore/"],
-        "unreal_collections": []
-      },
-      "is_enabled": false,
-      "mod_name": "zzHUDCore_P",
-      "mod_name_dir_name_override": "ModEntry",
-      "mod_name_dir_type": "Mods",
-      "packing_type": "repak",
-      "pak_chunk_num": null,
-      "pak_dir_structure": "~mods",
-      "use_mod_name_dir_name_override": true
-    },
-    {
-      "compression_type": "Zlib",
-      "file_includes": {
         "asset_paths": ["/Content/Mods/HUDs/Data/DA_HL2HUD"],
         "tree_paths": ["/Content/Mods/HUDs/HL2HUD/"],
         "unreal_collections": []
