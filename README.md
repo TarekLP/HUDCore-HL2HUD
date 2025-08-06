@@ -1,32 +1,12 @@
-# **HUDCore**
-## **The foundation for custom HUDs in PAYDAY 3**
+# **HL2HUD**
 
-HUDCore is a modular dependency framework for custom HUDs in PAYDAY 3. Whether you're a player customizing your in-game experience or a modder building the next great HUD, HUDCore provides the tools and structure you need.
-
-## **What is HUDCore?**
-HUDCore is a base mod that enables the loading, management, and development of custom HUDs in PAYDAY 3. It acts as a unified backend for HUD mods, handling the heavy lifting so creators can focus on design - and players can install and use HUDs effortlessly.
+## **What is HL2HUD?**
+HL2HUD is a recreation of the Half Life 2 UI with my own twist to make it suitable for PAYDAY.
 
 ### **Key Features**
-* Automatic HUD loading at runtime
-* Centralized, persistent settings per HUD
-* Support for multiple HUDs (with optional runtime switching)
-* HUD Template for easy development
-
-## **For Players**
-Installing HUD mods is easy with HUDCore:
-1. Install HUDCore via [ModWorkshop](https://modworkshop.net/mod/52605).
-1. Download any HUD mod that depends on HUDCore.
-1. Configure HUD settings using the in-game HUDCore settings menu.
-1. Enjoy your personalized HUD experience!
-
-## **For Modders**
-Want to create your own HUD? HUDCore makes it simple:
-* Start with the HUDCore Template HUD, a fully recreated example HUD.
-* Define your main HUD widget and settings your HUDCore data asset.
-* Let HUDCore handle loading, saving, and exposing your HUD’s options to players.
-
-Get started here: [Quick Start](https://github.com/NadzW/PD3-HUDCore/wiki/Quick-Start)
+* Recreated widgets that look like HL2
+* Custom Widgets specifically made for PAYDAY that match / recreate the HL2 Style
 
 ***
-_Note: HUDCore is a required dependency for all HUDs built with it. Make sure it’s installed and up to date before using any HUDCore-compatible HUDs._
+_Note: HUDCore is a required dependency for HL2HUD, make sure you have the most up to date version_
 ***
