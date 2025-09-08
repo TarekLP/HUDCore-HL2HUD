@@ -1,5 +1,5 @@
 # **HL2HUD**
-
+![Alt text](Content/GitHub/HUDCoreBanner.png)
 ## **What is HL2HUD?**
 HL2HUD is a recreation of the Half Life 2 UI with my own twist to make it suitable for PAYDAY.
 
