@@ -360,7 +360,8 @@
 			"Name": "FSR3",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"WinGDK"
 			]
 		},
 		{
@@ -389,14 +390,18 @@
 			"Name": "TLMVoiceChat",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"WinGDK",
+				"PS5",
+				"XSX"
 			]
 		},
 		{
 			"Name": "ChromaSDKPlugin",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
-				"Win64"
+				"Win64",
+				"WinGDK"
 			]
 		},
 		{
@@ -501,6 +506,10 @@
 			"Name": "FlatNodes",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
+		},
+		{
+			"Name": "UnrealAutoMod",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
